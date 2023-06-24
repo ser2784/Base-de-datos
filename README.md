@@ -205,14 +205,12 @@ delay(1000);
 
 3. Agregaremos los siguientes bloques en nuestro espacio de trabajo de Nod Red. (mqtt in, json, funcion, mysql, gauge,chart).
 
-![](https://github.com/ser2784/Base-de-datos/blob/main/Base%20de%20datos%202.png)
+![](https://github.com/ser2784/Base-de-datos/blob/main/Base%20de%20Datos%2021.png)
 
 
 ### Instrucciónes de operación
-
 1. Iniciar simulador.
-2. Visualizar los datos en el monitor serial.
-3. Colocar la distancia  dando *doble click* al sensor **sensor ultrasonico** 
+2. Para poder ver los datos en tiempo real tienes que darle al cuadro superior derecho (cuadro con una flecha apuntando hacia arriba-derecha) para que te mande a tu dashboard 
 
 ## Resultados
 
