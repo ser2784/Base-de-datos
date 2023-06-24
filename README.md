@@ -4,7 +4,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor HC-SR04 
 
 ### Descripción
 
-La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos la platafoma  (```node-red```) para adquirir temperatura y humedad del entorno tambien la Distancia; Cabe aclarar que esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/). y plataforma [node-red] (http://localhost:1880/ui/#!/0?socketid=GastYhmOZGDVaQArAAAN)  para realizar la visualización en tiempo real de los datos simulados y una pagina host online para visualizar los datos
+La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos la platafoma  (```node-red```) para adquirir la temperatura y humedad del entorno, tambien la Distancia;esta practica se usara un simulador llamado [WOKWI](https://https://wokwi.com/). y plataforma [node-red] (http://localhost:1880/ui/#!/0?socketid=GastYhmOZGDVaQArAAAN)  para realizar la visualización en tiempo real de los datos simulados y una pagina host online para visualizar los datos
 
 
 ## Material Necesario
@@ -17,6 +17,7 @@ Para realizar esta practica necesitas lo siguiente
 - DHT22
 - HC-SR04
 - host online
+- Esp32
 
 
 
