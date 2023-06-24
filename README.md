@@ -215,14 +215,15 @@ delay(1000);
 ## Resultados
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
-## Diagrama
+## Resultados y Graficas 
+ 
+ Valores dashboard
 
-![](https://github.com/ser2784/Practica-ultrasonico-y-dht22-con-node-red/blob/main/Practica%20ultrasonico%20y%20dht22%20con%20node-red%20diagrama.png)
+![](https://github.com/ser2784/Base-de-datos/blob/main/Base%20de%20Datos%203.png)
 
-![](https://github.com/ser2784/Practica-ultrasonico-y-dht22-con-node-red/blob/main/Practica%20ultrasonico%20y%20dht22%20con%20node-red%20diagrama%202.png)
-## Resultados y Grafica 
+![]()
 
-![](https://github.com/ser2784/Practica-ultrasonico-y-dht22-con-node-red/blob/main/Practica%20ultrasonico%20y%20dht22%20con%20node-red%20lecturas.png)
+![]()
 
 
 ## Evidencias
