@@ -221,7 +221,7 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 ![](https://github.com/ser2784/Base-de-datos/blob/main/Base%20de%20Datos%203.png)
 
-![]()
+![](https://github.com/ser2784/Base-de-datos/blob/main/Base%20de%20Datos%204.png)
 
 ![]()
 
