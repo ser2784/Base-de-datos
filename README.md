@@ -201,11 +201,11 @@ delay(1000);
 ```
 2. Hacer la conexion de HC-SR04 DHT22 con la ESP32 como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/ser2784/Base-de-datos/blob/main/Base%20de%20datos%201.png)
 
-3. Hacer la conexion de **node-red** con la **ESP32** como se muestra en la siguente imagen.
+3. Agregaremos los siguientes bloques en nuestro espacio de trabajo de Nod Red. (mqtt in, json, funcion, mysql, gauge,chart).
 
-![](https://github.com/ser2784/Practica-ultrasonico-y-dht22-con-node-red/blob/main/Practica%20ultrasonico%20y%20dht22%20con%20node-red%20diagrama%202.png)
+![](https://github.com/ser2784/Base-de-datos/blob/main/Base%20de%20datos%202.png)
 
 
 ### Instrucciónes de operación
